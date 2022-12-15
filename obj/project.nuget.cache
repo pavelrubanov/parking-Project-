@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vHPCUbYA3Z0B1A7vnLWrCz4kn9XZYmMsFS0iflL4pO2zewpcr4a/WPHQGjScKeb64qiwx6PhHX8GI5Gz5/6fHA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Настя\\source\\repos\\Parking\\Parking.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Настя\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
